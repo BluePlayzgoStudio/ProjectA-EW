@@ -1,0 +1,10 @@
+[
+  {
+    "id_transaksi": "TRX-9999",
+    "id_user": "USR-0001",
+    "jenis_transaksi": "system",
+    "jumlah": 0,
+    "keterangan": "Pembuatan dompet pertama kali",
+    "timestamp": "2026-06-27T08:47:00Z"
+  }
+]
