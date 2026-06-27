@@ -1,0 +1,16 @@
+{
+  "menu_awal": [
+    { "id": "login", "label": "Login ke Akun", "endpoint": "/auth/login" },
+    { "id": "register", "label": "Daftar Akun Baru", "endpoint": "/auth/register" },
+    { "id": "exit", "label": "Keluar (Exit)", "endpoint": "local_exit" }
+  ],
+  "menu_beranda": [
+    { "id": "cek_saldo", "label": "Cek Saldo Wallet", "endpoint": "/wallet/saldo" },
+    { "id": "transfer", "label": "Transfer ke Pengguna Lain", "endpoint": "/wallet/transfer" },
+    { "id": "topup", "label": "Top-Up Saldo", "endpoint": "/wallet/topup" },
+    { "id": "redeem", "label": "Simulasi Redeem Pembayaran", "endpoint": "/wallet/redeem" },
+    { "id": "history", "label": "Riwayat Transaksi", "endpoint": "/wallet/history" },
+    { "id": "settings", "label": "Pengaturan Akun", "endpoint": "/user/settings" },
+    { "id": "logout", "label": "Logout", "endpoint": "local_cache_clear" }
+  ]
+}
