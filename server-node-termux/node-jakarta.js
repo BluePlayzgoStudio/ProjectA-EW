@@ -8,7 +8,7 @@ const PORT = 3001;                 // Jakarta: 3001, Singapura: 3002, Tokyo: 300
 const REGION = "node_jakarta";     // node_singapura, node_tokyo, node_us
 
 // Ganti "USERNAME_KAMU" dengan username GitHub-mu
-const REPO_RAW_URL = "https://raw.githubusercontent.com/USERNAME_KAMU/ProjectA-EW/main";
+const REPO_RAW_URL = "https://github.com/BluePlayzgoStudio/ProjectA-EW/main";
 
 // Fungsi untuk membaca data JSON dari GitHub Raw
 async function fetchDariPusat(path) {
