@@ -1,0 +1,7 @@
+{
+  "master_seed": "ProjectA_SuperSecretSeed_2026!@#",
+  "hash_algorithm": "sha256",
+  "rotasi_detik": 30,
+  "toleransi_waktu_detik": 5,
+  "pesan_modmatch": "Script modmatch with credentials, please reinstall this script."
+}
