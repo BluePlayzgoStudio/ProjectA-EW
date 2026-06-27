@@ -1,0 +1,11 @@
+[
+  {
+    "id_user": "USR-0001",
+    "username": "ryan_tester",
+    "email": "tester@projecta.com",
+    "no_telp": "081234567890",
+    "password_hash": "hash_password_sementara",
+    "status_akun": "aktif",
+    "tanggal_daftar": "2026-06-27"
+  }
+]
