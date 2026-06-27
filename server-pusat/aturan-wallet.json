@@ -1,0 +1,8 @@
+{
+  "versi_client_wajib": "1.0.0",
+  "link_update_client": "https://github.com/USERNAME_KAMU/ProjectA-EW",
+  "saldo_awal_register": 0,
+  "limit_transfer_harian": 5000000,
+  "biaya_admin_transfer": 0,
+  "eula_text": "Selamat datang di ProjectA-Ewallet.\n\nDengan menggunakan aplikasi ini, Anda setuju bahwa:\n1. Ini adalah murni aplikasi simulasi.\n2. Saldo di dalam dompet ini tidak memiliki nilai tukar nyata dan tidak dapat dicairkan.\n3. Dilarang keras melakukan modifikasi (tamper) pada sistem Client.\n\nApakah Anda setuju dengan syarat dan ketentuan di atas?"
+}
